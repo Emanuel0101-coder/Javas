@@ -1,4 +1,4 @@
-/*Implemente e analise o trecho de c´odigo abaixo */
+/*Implemente e analise o trecho de código abaixo */
 
 package ListaExercicios;
 

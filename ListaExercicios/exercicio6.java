@@ -1,4 +1,4 @@
-/*Implemente e analise o trecho de c´odigo abaixo e identifique a diferen¸ca
+/*Implemente e analise o trecho de código abaixo e identifique a diferen¸ca
 entre os operadores. */
 package ListaExercicios;
 

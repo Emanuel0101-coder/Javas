@@ -1,5 +1,5 @@
-/*Escreva um programa em java que declare uma vari´avel do tipo caracter.
-Atribui o valor inteiro 88 para a vari´avel apresente o resultado em tela.
+/*Escreva um programa em java que declare uma varíavel do tipo caracter.
+Atribui o valor inteiro 88 para a varíavel apresente o resultado em tela.
 Observe e analise o resultado.
  */
 package ListaExercicios;

@@ -1,0 +1,13 @@
+Explicação:
+1 - Cálculo da função:
+A função bealeFunction(x, y) usa Math.pow para calcular os termos ao quadrado.
+As expressões da equação são implementadas diretamente no método.
+
+
+2 - Testando a função:
+No main, chamamos bealeFunction(3, 0.5), que deve retornar 0, confirmando que a implementação está correta.
+
+
+3 - Intervalo válido:
+Se quiser testar para outros valores, você pode modificar x e y, 
+mas garantindo que fiquem no intervalo [-4.5, 4.5].

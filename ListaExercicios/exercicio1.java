@@ -1,7 +1,7 @@
-package ListaExercicios;
-/*Escreva um programa em java que declare uma vari´avel do tipo inteiro.
-Atribua o maior valor poss´ıvel para essa vari´avel. Some mais 1 e apresente
+/*Escreva um programa em java que declare uma varíavel do tipo inteiro.
+Atribua o maior valor possível para essa varíavel. Some mais 1 e apresente
 o resultado em tela. Observe e analise o resultado*/
+package ListaExercicios;
 
 public class exercicio1 {
   public static void main(String[] args) {

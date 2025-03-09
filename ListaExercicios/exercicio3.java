@@ -1,6 +1,6 @@
-/*Escreva um programa em java que receba dois inteiros. Realize a divis˜ao
-entre os n´umeros e apresente o resultado em tela. Observe o que acontece
-quando se divide um n´umero por zero.
+/*Escreva um programa em java que receba dois inteiros. Realize a divisão
+entre os números e apresente o resultado em tela. Observe o que acontece
+quando se divide um número por zero.
  */
 package ListaExercicios;
 

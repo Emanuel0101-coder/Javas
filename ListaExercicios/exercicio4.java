@@ -1,5 +1,5 @@
 /*Escreva um programa em java que receba dois textos. Verifique se os dois
-textos s˜ao iguais e apresente o resultado em tela. Observe e analise os
+textos são iguais e apresente o resultado em tela. Observe e analise os
 resultados.*/
 
 package ListaExercicios;

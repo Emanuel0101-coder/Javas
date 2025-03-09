@@ -1,6 +1,7 @@
-package ListaExercicios;
 /*Escreva um programa em java que receba um inteiro. Verifique se o valor
-´e par ou ´ımpar. Apresente o resultado em tela */
+é par ou ímpar. Apresente o resultado em tela */
+
+package ListaExercicios;
 import java.util.Scanner;
 
 public class exercicio2 {
