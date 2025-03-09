@@ -16,6 +16,6 @@ public class exercicio3 {
     int numero2 = scanner.nextInt();
     int divisao = numero / numero2;
     System.out.println("A divisao dos dois numeros: " + divisao);
-
+    scanner.close();
   }
 }
