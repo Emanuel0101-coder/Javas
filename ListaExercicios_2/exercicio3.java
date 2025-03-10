@@ -15,6 +15,7 @@ public class exercicio3 {
       System.out.println("Digite numero: ");
       numero = leitor.nextInt();          //ler o numero dentro do loop
     } while( numero != -1);
+    
     System.out.println("Programa encerrado.");
     leitor.close();
   }

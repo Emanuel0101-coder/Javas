@@ -1,0 +1,7 @@
+1 - Aquela função é na verdade uma função recursiva, ou seja
+ela chama a si própria até alcançar a condição proposta
+
+2 - Como funciona esse tipo de função?
+Quando você chama a função recursivamente, ela se chama de novo dentro dela mesma. 
+Isso cria uma pilha de chamadas (ou "stack"). Cada vez que você faz uma chamada recursiva, a função "espera"
+a resposta de chamadas mais profundas para poder continuar sua execução.
