@@ -4,7 +4,7 @@ package ListaExercicios_3;
 
 public class exercicio5 {
   public static void main(String[] args) {
-    System.out.println("A area do ciruclo e: " + area(10));
+    System.out.println("A area do ciruclo e: " + area(10));       //10 sendo usado como referencia
   }
   public static double area(double x){
     double pi = Math.PI;
