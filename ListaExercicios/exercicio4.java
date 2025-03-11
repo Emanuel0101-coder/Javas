@@ -13,7 +13,6 @@ public class exercicio4 {
         System.out.println("Digite o primeiro texto: ");
         String x = leitor.nextLine();
 
-        // Experimente dividir por Zero
         System.out.println("Digite o segundo texto: ");
         String y = leitor.nextLine();
         boolean resultado = x == y;
